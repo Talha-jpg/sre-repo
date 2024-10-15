@@ -1,7 +1,7 @@
 #include <iostream>
-using namesapcestd;
+using namesapce std;
 int main()
 {
-    cout << "Hello, World!";
+    cout << "Hello, World!" << endl;
     return 0;
 }
